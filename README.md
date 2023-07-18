@@ -1,5 +1,5 @@
 ## Pokedex
-*Vite, ReactJS / Typescript, Styled Components*
+*Vite + ReactJS / Typescript, Styled Components*
 
 #### 🛠️ Abrir e rodar o projeto
 #### *yarn install* 
